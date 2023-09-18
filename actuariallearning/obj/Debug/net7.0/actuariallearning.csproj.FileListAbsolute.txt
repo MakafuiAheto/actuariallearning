@@ -1,0 +1,7 @@
+/Users/makafuiaheto/Projects/actuariallearning/actuariallearning/obj/Debug/net7.0/actuariallearning.csproj.AssemblyReference.cache
+/Users/makafuiaheto/Projects/actuariallearning/actuariallearning/obj/Debug/net7.0/actuariallearning.GeneratedMSBuildEditorConfig.editorconfig
+/Users/makafuiaheto/Projects/actuariallearning/actuariallearning/obj/Debug/net7.0/actuariallearning.AssemblyInfoInputs.cache
+/Users/makafuiaheto/Projects/actuariallearning/actuariallearning/obj/Debug/net7.0/actuariallearning.AssemblyInfo.cs
+/Users/makafuiaheto/Projects/actuariallearning/actuariallearning/obj/Debug/net7.0/actuariallearning.csproj.CoreCompileInputs.cache
+/Users/makafuiaheto/Projects/actuariallearning/actuariallearning/obj/Debug/net7.0/actuariallearning.MvcApplicationPartsAssemblyInfo.cs
+/Users/makafuiaheto/Projects/actuariallearning/actuariallearning/obj/Debug/net7.0/actuariallearning.MvcApplicationPartsAssemblyInfo.cache
